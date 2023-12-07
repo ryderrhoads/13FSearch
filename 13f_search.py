@@ -1,7 +1,6 @@
 """
 Name: 13f_search.py
 Author: Ryder Rhoads
-Company: Wedbush Secruities
 Summary: The goal of this program is to find all institutional clients which hold the given tickers. With the goal of creating business at the firm.
 Requires: https://pandas.pydata.org/ & https://sec-api.io/ 
 """
